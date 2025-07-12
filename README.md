@@ -36,4 +36,4 @@
   - I over-engineer most things
   - I never really finish any of my projects
   - I learn way to much at the same time
-  - I still don't know how git works 
+  - wtf even is version control?
