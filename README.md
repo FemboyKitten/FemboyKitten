@@ -2,7 +2,7 @@
 
 **Quick Introduction**
 
-I may not be a developer by profession, but my journey in the tech world has been fueled by my curiosity and a passion for learning. Most of my knowledge comes from my own research, hands-on experimentation, and a willingness to explore new ideas. Currently, I work as a Windows Server administrator for a large company, where I enjoy the challenges and opportunities that come with the role. My ultimate dream is to create software that everyone can enjoy. I invite you to join me on this exciting journey!
+I may not be a developer by profession, but my journey in the tech world has been fueled by my curiosity and a passion for learning. Most of my knowledge comes from my own research, hands-on experimentation, and a willingness to explore new ideas. Currently, I work as a Windows Server administrator for a rather large company. My ultimate dream is to create software that everyone can enjoy. I invite you to join me on this exciting journey!
 
 #
 **My Philosophy**
