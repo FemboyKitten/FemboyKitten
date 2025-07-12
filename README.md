@@ -19,3 +19,8 @@
 <img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
 <img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />      
+
+
+###Statistics
+
+![FemboyKitten's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemboyKitten&show_icons=true&theme=nord)
