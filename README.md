@@ -2,7 +2,6 @@
 
 **`Open Source Enthusiasts`**
 
-#
 
 **Full-Stack Developer with focus on:**
 
