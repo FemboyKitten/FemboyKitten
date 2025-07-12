@@ -1,3 +1,9 @@
 # 🌸 Femboy Kitten 🌸
 
-**`open source enthusiasts`**
+**`Open Source Enthusiasts`**
+
+
+## Full-Stack Developer with focus on:
+
+  - Performance optimization
+
