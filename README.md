@@ -32,7 +32,8 @@ I may not be a developer by profession, but my journey in the tech world has bee
 
 #
 ### Fun Facts about me
-  
+
+  - I use NixOS and Neovim
   - I over-engineer most things
   - I never really finish any of my projects
   - I learn way to much at the same time
