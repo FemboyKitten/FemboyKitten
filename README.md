@@ -12,4 +12,8 @@
   - Zero-Defect Development
 
 #
-Tools/Languages I use
+###Tools I use
+
+<img align="Left" size="3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
+          
+
