@@ -3,7 +3,9 @@
 **`Open Source Enthusiasts`**
 
 
-## Full-Stack Developer with focus on:
+Full-Stack Developer with focus on:
 
-  - Performance optimization
-
+  - Performance Optimization
+  - Functionality
+  - Intuitive Software
+  - Zero-Defect Development
