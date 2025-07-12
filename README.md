@@ -2,8 +2,9 @@
 
 **`Open Source Enthusiasts`**
 
+#
 
-Full-Stack Developer with focus on:
+**Full-Stack Developer with focus on:**
 
   - Performance Optimization
   - Functionality
