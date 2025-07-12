@@ -7,9 +7,9 @@ I may not be a developer by profession, but my journey in the tech world has bee
 #
 **My Philosophy**
 
-  - Performance Optimization
-  - Functionality
-  - Intuitive Software
+  - Functionality 
+  - Performance
+  - Intuitive 
   - Zero-Defect Development
 
 #
