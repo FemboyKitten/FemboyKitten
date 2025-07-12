@@ -29,3 +29,11 @@
 ### Statistics
 
 ![FemboyKitten's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemboyKitten&show_icons=true&theme=nord)
+
+#
+### Fun Facts about me
+  
+  - I over-engineer somethings
+  - I never really finish any of my projects
+  - I learn way to much at the same time
+  - I still don't know how git works 
