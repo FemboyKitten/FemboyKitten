@@ -1,9 +1,5 @@
 # 🌸 Femboy Kitten 🌸
 
-**`Open Source Enthusiasts`** 
-
-<br />
-
 **Quick Introduction**
 
 <br />
