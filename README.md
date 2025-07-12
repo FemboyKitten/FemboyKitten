@@ -36,5 +36,5 @@ I may not be a developer by profession, but my journey in the tech world has bee
   - I use NixOS and Neovim
   - I have never debugged something   
   - I never finish any of my projects
-  - I learn way to much at the same time
+  - I try learning way to much at the same time
   - wtf even is version control?
