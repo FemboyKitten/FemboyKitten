@@ -9,7 +9,7 @@ I may not be a developer by profession, but my journey in the tech world has bee
 
   - Functionality 
   - Performance
-  - Intuitive 
+  - Intuitive Software
   - Zero-Defect Development
 
 #
