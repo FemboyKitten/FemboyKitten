@@ -16,9 +16,9 @@ The number of people who are aware and genuinely care is far fewer than it shoul
    
 
 #
-### To Whom It May Concern
+### To Whomever It May Concern
 
-![FemboyKitten's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemboyKitten&show_icons=true&theme=nord)
+![OnGalaxySteroids's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnGalaxySteroids&show_icons=true&theme=nord)
 
 #
 ***Kind Regards***
