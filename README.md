@@ -1,5 +1,3 @@
-### Esteemd reader
-
 ***So far, the internet has not provided us with anything good***
 
 I find myself reflecting on this more often. The internet promised us connectivity, empowerment, and endless opportunities. Instead, we face a reality filled with hatred, over-engineered content, AI-generated noise, and the weight of depression.
@@ -21,3 +19,6 @@ The number of people who are aware and genuinely care is far fewer than it shoul
 ### To Whom It May Concern
 
 ![FemboyKitten's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemboyKitten&show_icons=true&theme=nord)
+
+#
+***Kind Regards***
