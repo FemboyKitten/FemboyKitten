@@ -1,40 +1,23 @@
-# 🌸 Femboy Kitten 🌸
+### Esteemd reader
 
-**Quick Introduction**
+***So far, the internet has not provided us with anything good***
 
-I may not be a developer by profession, but my journey in the tech world has been fueled by my curiosity and a passion for learning. Most of my knowledge comes from my own research, hands-on experimentation, and a willingness to explore new ideas. My ultimate dream is to create software that everyone can enjoy. I invite you to join me on this exciting journey!
+I find myself reflecting on this more often. The internet promised us connectivity, empowerment, and endless opportunities. Instead, we face a reality filled with hatred, over-engineered content, AI-generated noise, and the weight of depression.
 
-#
-**My Philosophy**
+The internet resembles a minefield. No matter what you click on, what actions you take, and who you communicate with. Large corporations, political groups, and governments are constantly watching, influencing, and guiding your choices, without your awarness.
 
-  - Functionality 
-  - Performance
-  - Intuitive Software
-  - Zero-Defect Development
+The number of people who are aware and genuinely care is far fewer than it should be.
 
-#
-### Currently Learning
+# 
+### The tools I use
 
-<img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
-<img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
-<img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img align="Left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-                          
-<br />      
+<img align="Left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
+<img align="Left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+<img align="Left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />     
+<br />   
+   
 
 #
-### Statistics
+### To Whom It May Concern
 
 ![FemboyKitten's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemboyKitten&show_icons=true&theme=nord)
-
-#
-### Fun Facts about me
-
-  - I use NixOS and Neovim
-  - I have never debugged something   
-  - I never finish any of my projects
-  - I try learning way to much at the same time
-  - wtf even is version control?
